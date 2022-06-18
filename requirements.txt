@@ -1,0 +1,4 @@
+imageai==2.1.5
+streamlit==0.69.2
+Pillow==8.0.1
+tensorflow==2.1.0
